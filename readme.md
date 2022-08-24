@@ -6,8 +6,7 @@
 
 <h3><strong>About Me</strong></h3>
 
-<li><b>Student of Information Systems at UNISANTA (Universidade Santa Cecília).</b></li>
-<li><b>Currently studying JavaScript, Node.js, React, Express.js and CSS frameworks.</b></li>
+<li><b>Information Systems student at UNISANTA (Universidade Santa Cecília).</b></li>
 
 <h3><strong>Languages and Tools</strong></h3>
 
