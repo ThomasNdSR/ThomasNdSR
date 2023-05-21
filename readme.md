@@ -9,7 +9,7 @@
 <li><b>Information Systems - UNISANTA (Universidade Santa Cecília).</b></li>
 <li><b>Logical, rational, proactive and communicative.</b></li>
 
-<h3><strong>Languages and tools I've been studying</strong></h3>
+<h3><strong>Languages and tools that I had contact with or am studying.</strong></h3>
 
 <p align="justify">  
 <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
