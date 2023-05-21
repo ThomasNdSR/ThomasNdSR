@@ -1,4 +1,4 @@
-<h2 align="center">Hello, my name is Thomas!</h2>
+<h2 align="center">Hello, my name is Thomas Nicola!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thomas-nicola-rodrigues/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
